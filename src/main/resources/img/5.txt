@@ -1,0 +1,9 @@
+
+  .g8"""bgd       db      `7MMF'            db      `YMM'   `MP'`YMM'   `MM'
+.dP'     `M      ;MM:       MM             ;MM:       VMb.  ,P    VMA   ,V
+dM'       `     ,V^MM.      MM            ,V^MM.       `MM.M'      VMA ,V
+MM             ,M  `MM      MM           ,M  `MM         MMb        VMMP
+MM.    `7MMF'  AbmmmqMA     MM      ,    AbmmmqMA      ,M'`Mb.       MM
+`Mb.     MM   A'     VML    MM     ,M   A'     VML    ,P   `MM.      MM
+  `"bmmmdPY .AMA.   .AMMA..JMMmmmmMMM .AMA.   .AMMA..MM:.  .:MMa.  .JMML.
+
