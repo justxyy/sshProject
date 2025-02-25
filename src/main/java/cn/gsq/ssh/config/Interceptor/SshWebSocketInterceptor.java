@@ -24,8 +24,7 @@ import java.util.Map;
  * Class : cn.gsq.ssh.config.Interceptor.SshWebSocketInterceptor
  *
  * @author : gsq
- * @date : 2022-06-14 14:48
- * @note : It's not technology, it's art !
+ * @since : 2022-06-14 14:48
  **/
 @Slf4j
 public class SshWebSocketInterceptor implements HandshakeInterceptor {
