@@ -7,11 +7,11 @@
     <parent>
         <groupId>io.github.gaoshq7</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </parent>
     <groupId>io.github.justxyy</groupId>
     <artifactId>sshProject</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
